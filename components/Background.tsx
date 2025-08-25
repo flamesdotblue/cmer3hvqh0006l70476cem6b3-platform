@@ -28,8 +28,7 @@ export default function Background() {
         className="absolute inset-0"
         style={{
           background:
-            'radial-gradient(1200px 800px at 10% 10%, rgba(255,255,255,0.35), rgba(255,255,255,0) 60%),\
-             radial-gradient(1200px 800px at 90% 0%, rgba(255,255,255,0.25), rgba(255,255,255,0) 60%)',
+            'radial-gradient(1200px 800px at 10% 10%, rgba(255,255,255,0.35), rgba(255,255,255,0) 60%),\\\n             radial-gradient(1200px 800px at 90% 0%, rgba(255,255,255,0.25), rgba(255,255,255,0) 60%)',
         }}
       />
       {/* Vignette for focus */}
